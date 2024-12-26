@@ -1,5 +1,3 @@
-#### README - Mesclagem de Fontes do HydraLauncher
-
 **Bem-vindo!** Este documento explica como utilizar a mesclagem de fontes disponibilizada pelo HydraLauncher, facilitando a adição de várias fontes de uma só vez.
 
 ---
