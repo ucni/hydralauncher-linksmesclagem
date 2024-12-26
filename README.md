@@ -25,4 +25,4 @@ Para adicionar a fonte, siga o processo descrito na imagem abaixo:
 
 
 
-#- Lembramos que pode haver erros ou bugs que ainda podemos resolver com a sua ajuda!
+-# Lembramos que pode haver erros ou bugs que ainda podemos resolver com a sua ajuda!
