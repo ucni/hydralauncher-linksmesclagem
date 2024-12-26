@@ -11,7 +11,7 @@ A mesclagem de fontes é uma **ferramenta prática** que permite que você adici
 ### Como Adicionar Fontes
 
 Para adicionar a fonte, siga o processo descrito na imagem abaixo:
-https://cdn.discordapp.com/attachments/1300984983212658688/1321629105753423902/Screenshot_1.png?ex=676dee85&is=676c9d05&hm=fac37b851138ee1c7a39f50b883107319353c18f8338d7c991f31cead60518e6&
+
 
 1. **Acesse o URL da fonte**: [https://raw.githubusercontent.com/ucni/hydralauncher-linksmesclagem/refs/heads/main/msclv2.json](https://raw.githubusercontent.com/ucni/hydralauncher-linksmesclagem/refs/heads/main/msclv2.json)
 2. **Siga as instruções** na imagem para completar a adição.
