@@ -21,7 +21,7 @@ Para adicionar a fonte, siga o processo descrito na imagem abaixo:
 - **Eficiência**: Adicione várias fontes de uma só vez.
 - **Facilidade**: Processo simplificado para usuários novos e experientes.
 - **Acesso Rápido**: Todas as fontes disponíveis em um único link.
-
+![1](Screenshot_2.png)
 
 
 
