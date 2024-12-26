@@ -6,7 +6,7 @@
 
 A mesclagem de fontes é uma **ferramenta prática** que permite que você adicione diversas fontes ao HydraLauncher sem a necessidade de inserir cada uma individualmente. Isso economiza tempo e simplifica o processo de configuração.
 
-### Como Adicionar Fontes
+### Como Adicionar a Fonte
 
 Para adicionar a fonte, siga o processo descrito na imagem abaixo:
 ![Tutorial](Screenshot_1.png)
