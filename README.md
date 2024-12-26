@@ -13,7 +13,7 @@ A mesclagem de fontes é uma **ferramenta prática** que permite que você adici
 Para adicionar a fonte, siga o processo descrito na imagem abaixo:
 ![Tutorial](Screenshot_1.png)
 
-1. **Acesse o URL da fonte**: [https://raw.githubusercontent.com/ucni/hydralauncher-linksmesclagem/refs/heads/main/msclv2.json](https://raw.githubusercontent.com/ucni/hydralauncher-linksmesclagem/refs/heads/main/msclv2.json)
+1. **Adicione o URL da fonte**: [https://raw.githubusercontent.com/ucni/hydralauncher-linksmesclagem/refs/heads/main/msclv2.json](https://raw.githubusercontent.com/ucni/hydralauncher-linksmesclagem/refs/heads/main/msclv2.json)
 2. **Siga as instruções** na imagem para completar a adição.
 
 ### Benefícios
