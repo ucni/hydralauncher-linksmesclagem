@@ -22,7 +22,8 @@ Para adicionar a fonte, siga o processo descrito na imagem abaixo:
 - **Facilidade**: Processo simplificado para usuários novos e experientes.
 - **Acesso Rápido**: Todas as fontes disponíveis em um único link.
 ![1](Screenshot_2.png)
-
+![2](Screenshot_3.png)
+![3](Screenshot_4.png)
 
 
 Lembramos que pode haver erros ou bugs que ainda podemos resolver com a sua ajuda!
